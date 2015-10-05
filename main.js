@@ -1,6 +1,7 @@
 openInJira = function(id){
   var query = id.selectionText;
-  chrome.tabs.create({url: "{{Set up here your Jira URL like - https://yourcompany.atlassian.net/browse/}}" + query});
+  // Set up your URL here, don't forget the final "/"
+  chrome.tabs.create({url: "https://yourcompanyhere.atlassian.net/browse/" + query});
 };
 
 chrome.contextMenus.create({

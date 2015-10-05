@@ -9,9 +9,6 @@ If you are lazy like me, and also you are tired to copy/[aste and type the Jira 
 1. Download / Clone this repo.
 2. Config the Jira URL, by opening the `main.js` file and adding your Jira instance data:
 
-    ```javascript
-    chrome.tabs.create({url: "{{Set up here your Jira URL like - https://yourcompany.atlassian.net/browse/}}" + query});
-    ```
     Ex.
     ```javascript
     chrome.tabs.create({url: "https://yourcompany.atlassian.net/browse/" + query});
