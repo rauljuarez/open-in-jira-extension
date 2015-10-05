@@ -32,7 +32,7 @@ If you are lazy like me, and also you are tired to copy/[aste and type the Jira 
 ### To Done
 
 * Setting interface for your Jira URL
-* Next will be Fireforx too...
+* Next will be Firefox too...
 
 ### Suggestions?
 
