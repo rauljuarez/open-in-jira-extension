@@ -2,7 +2,7 @@
 
 YEI! This is the **Open in Jira** for your Google Chrome.
 
-If you are lazy like me, and also you are tired to copy/[aste and type the Jira URL for your Issues, for example when you have an Drive Spreadsheet or Excel not linked at all... well, well, now you have the solution...
+If you are lazy like me, and also you are tired to copy/paste and type the Jira URL, for example, when you have a Google Drive Spreadsheet or Excel with tons of IDs not linked at all... well, well, now you have the solution...
 
 ### Configuration
 
